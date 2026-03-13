@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>CV - Quỳnh Anh</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    background:#f5f7fb;
+    margin:40px;
+}
+
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+}
+
+.box{
+    background:white;
+    border:2px solid #4f7bd9;
+    border-radius:10px;
+    padding:15px 20px;
+}
+
+h2{
+    color:#1f3f85;
+    margin-top:0;
+}
+
+.highlight{
+    border:3px solid purple;
+}
+
+ul{
+    padding-left:20px;
+}
+
+.title{
+    font-style:italic;
+    color:#3d5aa9;
+}
+
+.year{
+    color:#3d5aa9;
+    font-weight:bold;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="box">
+<h2>Học vấn</h2>
+
+<ul>
+<li>Sinh viên năm 3, chuyên ngành Kinh doanh quốc tế, Trường Đại học Ngoại Thương</li>
+</ul>
+
+</div>
+
+<div class="box highlight">
+<h2>Kỹ năng</h2>
+
+<ul>
+<li>Sử dụng thành thạo tin học văn phòng (Word, Excel, PowerPoint)</li>
+<li>Hiểu biết và có thể sử dụng Python, SQL, Power BI</li>
+<li>Sử dụng thành thạo một số ứng dụng chỉnh sửa hình ảnh, video</li>
+<li>Kỹ năng tư duy phản biện, giao tiếp, làm việc nhóm, quản lý thời gian</li>
+</ul>
+
+</div>
+
+<div class="box">
+<h2>Thành tích nổi bật</h2>
+
+<ul>
+<li>GPA 3.85/4.0</li>
+<li>Học bổng Khuyến khích học tập loại Xuất sắc trường Đại học Ngoại thương năm 2024, 2025</li>
+<li>Học bổng doanh nghiệp TOTO 2024</li>
+<li>Thí sinh: Đường lên đỉnh Olympia năm thứ 22 do Đài truyền hình Việt Nam tổ chức</li>
+<li>Thủ khoa đầu ra trường THPT Phan Đình Phùng - Hà Tĩnh</li>
+<li>Ngoại ngữ: IELTS 6.5</li>
+</ul>
+
+</div>
+
+<div class="box">
+<h2>Kinh nghiệm</h2>
+
+<p><span class="year">2024 - 2025</span> <b>CaseHub</b> - Dự án kết nối sinh viên với các doanh nghiệp startup</p>
+<ul>
+<li>Lên kế hoạch truyền thông, thu hút hơn 500 CV ứng viên, phỏng vấn hơn 200 talents các cuộc thi sinh viên</li>
+</ul>
+
+<p><span class="year">2023 - 2025</span> <b>Cham Projects</b></p>
+<ul>
+<li>Co-founder, phụ trách lĩnh vực truyền thông với 4.6k lượt theo dõi fanpage</li>
+</ul>
+
+<p><span class="year">2023 - 2024</span> <b>Đội Tình nguyện đồng hương Hà Tĩnh Đại học Ngoại thương</b></p>
+<ul>
+<li>Lên kế hoạch, tham gia tổ chức các chương trình “Mùa hè xanh Hà Tĩnh”</li>
+<li>Leader, giám sát, theo dõi tiến độ, tham gia tổ chức chương trình</li>
+</ul>
+
+<p><span class="year">2023 - 2024</span> <b>Langs thang - Đi và nhiều hơn thế</b></p>
+<ul>
+<li>Co-founder dự án, phụ trách truyền thông, thu hút 400 lượt theo dõi fanpage</li>
+</ul>
+
+<p><span class="year">2022 - 2023</span> <b>CLB Polymath</b></p>
+<ul>
+<li>Ban Chủ nhiệm, giám sát, quản lý, tổ chức cuộc thi “Trí Tuệ Lam Hồng”</li>
+</ul>
+
+</div>
+
+<div class="box">
+<h2>Lĩnh vực quan tâm</h2>
+
+<p class="title">Logistics, Quản lý chuỗi cung ứng, Marketing</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
